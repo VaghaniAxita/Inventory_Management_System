@@ -1,0 +1,21 @@
+.dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.dashboard th, .dashboard td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.low-stock {
+    color: red;
+    font-weight: bold;
+}
+
+.sufficient-stock {
+    color: green;
+    font-weight: bold;
+}

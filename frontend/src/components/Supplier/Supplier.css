@@ -1,0 +1,14 @@
+.supplier-form input {
+    padding: 8px;
+    margin: 5px;
+}
+
+.supplier-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.supplier-list li {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
