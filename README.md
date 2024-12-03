@@ -46,9 +46,6 @@ The Inventory Management System is a full-stack web application that helps busin
 - Context API for state management
 - CSS/SCSS for styling 
 
-**Database:** 
-
-     MongoDB: NoSQL database for storing recipe details.
      
 ## 🎯 Future Enhancements
 Add authentication and user roles (e.g., admin, staff).
