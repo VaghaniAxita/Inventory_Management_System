@@ -100,7 +100,7 @@ ___________________________________________________
 
 **User Login**
 
-- Route: /api/users/login
+- Route:POST /api/users/login
 - Description:Login an existing user
 - Request Body:
 ```bash
